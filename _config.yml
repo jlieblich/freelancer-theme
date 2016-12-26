@@ -2,7 +2,7 @@
 title: Jon Lieblich
 email: jlieblich1@gmail.com
 url: https://jlieblich.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Jon Lieblich's Android, Java, & Software Development Portfolio Site"
 skills: "Android Developer - Tech Enthusiast - Java Developer"
 meta_author: Lieblich Jon
 
@@ -31,9 +31,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jonathan Lieblich
   location: Location
-  social: Around the Web
+  social: Connect With Me
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -42,12 +42,10 @@ social:
     url: https://www.linkedin.com/in/jlieblich1
   - title: github
     url: http://github.com/jlieblich
-  - title: hacker-rank
-    url: https://www.hackerrank.com/jlieblich1
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Greater New York City Area
+  - line: Greater New York, NY Area
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
