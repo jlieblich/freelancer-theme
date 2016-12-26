@@ -1,9 +1,9 @@
 ---
-title: First Title
+title: EventMeet
 layout: default
 modal-id: 1
-date: 2016-10-21
+date: 2017-01-09
 img: cabin.png
-description: A basic to-do list native android app
+description: In progress - more to come soon!
 
 ---
